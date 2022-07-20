@@ -6,6 +6,6 @@
 </p>
 <br clear="left"/>
 <br/>
-<p align="center">
+
 I'm Enrique. I love anything Computer Science. And space!
-</p>
+
