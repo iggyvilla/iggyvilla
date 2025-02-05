@@ -1,4 +1,3 @@
 # iggyvilla
 
-I'm Enrique. I love anything Computer Science. And space!
-
+I'm Enrique. I love anything AI, space, and microcontrollers. 
